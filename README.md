@@ -4,6 +4,6 @@
 - ✨ Learned - Lua Coding
 - 📫 How to reach me Husky...#1266
 
-![GitHub Stats](https://github-readme-stats.vercel/api?username=HuskyA1&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HuskyA1&show_icons=true&theme=radical)
 
 
